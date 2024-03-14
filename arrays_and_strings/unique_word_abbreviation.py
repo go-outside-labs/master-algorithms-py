@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# author: bt3gl
+# author: Mia Stein
 
 '''
 The abbreviation of a word is a concatenation of its first letter, 

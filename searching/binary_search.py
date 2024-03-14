@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# author: bt3gl
+# author: Mia Stein
 
 
 def binary_search_recursive(array, item, higher=None, lower=0):

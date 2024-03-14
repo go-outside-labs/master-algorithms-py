@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# author: bt3gl
+# author: Mia Stein
 
 # A peak element is an element that is strictly greater than its neighbors.
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# author: bt3gl
+# author: Mia Stein
 
 
 def two_sum(nums: list[int], target: int) -> list[int]:

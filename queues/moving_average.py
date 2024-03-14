@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# author: bt3gl
+# author: Mia Stein
 
 '''
 Given a stream of integers and a window size, calculate the moving average in the sliding window.
